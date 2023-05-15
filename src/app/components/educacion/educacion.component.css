@@ -1,0 +1,31 @@
+.row{
+    margin-right:20px;
+    margin-left: 30px;
+    background: white
+}
+
+.btned{
+    text-align: center;
+
+}
+
+td{
+    text-align: left;
+}
+.btnnew{
+    padding-bottom: 5%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+h3,h4,h6 {
+    display: inline
+}
+ul, li{
+    list-style-type: none;
+}
+.titulo{
+    text-align: center;
+}
