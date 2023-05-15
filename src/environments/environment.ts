@@ -1,5 +1,5 @@
 export const environment = {
-  URL: 'https://backend-production-b44e.up.railway.app/', 
+  URL: 'https://backend-1s2k.onrender.com/', 
   firebase: {
     projectId: 'frontend-2b443',
     appId: '1:695157358758:web:7112e8428eedeaea1e3467',
