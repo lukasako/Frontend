@@ -9,7 +9,7 @@ import { environment } from 'src/environments/environment';
     providedIn: 'root'
   })
   export class SExperienciaService {
-    expURL= environment.URL +'xplab/'
+    expURL= 'https://backend-1s2k.onrender.com/xplab/'
     constructor(private httpClient: HttpClient) { }
 
     public lista():Observable<Experiencia[]>{

@@ -10,7 +10,7 @@ import { environment } from 'src/environments/environment';
   providedIn: 'root'
 })
 export class UserService {
-  URL = environment.URL +'usuario/';
+  URL = 'https://backend-1s2k.onrender.com/usuario/';
 
 
   constructor(private httpClient:HttpClient) { }

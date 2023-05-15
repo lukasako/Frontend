@@ -8,7 +8,7 @@ import { environment } from 'src/environments/environment';
   providedIn: 'root'
 })
 export class EducacionService {
-  URL= environment.URL +'educacion/'
+  URL= 'https://backend-1s2k.onrender.com/educacion/'
   constructor(private httpClient: HttpClient) { }
 
   public lista():Observable<Educacion[]>{

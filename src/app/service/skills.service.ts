@@ -8,7 +8,7 @@ import { environment } from 'src/environments/environment';
   providedIn: 'root'
 })
 export class SkillsService {
-  skURL=environment.URL +'skills/'
+  skURL='https://backend-1s2k.onrender.com/skills/'
 
   constructor(private httpClient: HttpClient) { }
 

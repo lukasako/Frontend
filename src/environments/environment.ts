@@ -1,5 +1,4 @@
 export const environment = {
-  URL: 'https://backend-1s2k.onrender.com/', 
   firebase: {
     projectId: 'frontend-2b443',
     appId: '1:695157358758:web:7112e8428eedeaea1e3467',
@@ -7,5 +6,5 @@ export const environment = {
     locationId: 'southamerica-east1',
     apiKey: 'AIzaSyBPqGCC5-oQetvlYbHY5K9JCxQLchaanGU',
     authDomain: 'frontend-2b443.firebaseapp.com',
-    messagingSenderId: '695157358758',
+    messagingSenderId: '695157358758',  
   },};
